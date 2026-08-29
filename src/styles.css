@@ -1,13 +1,12 @@
-h1 {
-    color: blue;
-    background: black;
-}
-
-
 p {
     color: green;
 }
 
 div {
     background: white;
+}
+
+span {
+    color: red;
+    border: 1px solid blue;
 }
